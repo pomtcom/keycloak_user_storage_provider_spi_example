@@ -1,3 +1,5 @@
+For easy example (build success with mvn clean install)
+
 # File based Keycloak user storage provider
 
 The [User Storage SPI](https://www.keycloak.org/docs/6.0/server_development/#_user-storage-spi) of Keycloak can be used to write extensions that connect to external user databases and credential stores for customized user federation. 
